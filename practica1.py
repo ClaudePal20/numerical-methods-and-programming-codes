@@ -1,0 +1,6 @@
+print("Nombre: Palacio Martínez Claudio Emiliano")
+print("Matrícula 1288685")
+print("Facultad: Ciencias Químicas e Ingeniería")
+print("Materia: Programación y Métodos Numéricos")
+print("Actividad: Práctica 1 - Instalación y Configuración")
+print("Fecha: 31 de Enero de 2022")
